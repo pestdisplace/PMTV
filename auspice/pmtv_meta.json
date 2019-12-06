@@ -1,0 +1,240 @@
+{
+  "annotations": {
+    "nuc": {
+      "end": 6005,
+      "start": 0,
+      "strand": 1
+    }
+  },
+  "author_info": {},
+  "color_options": {
+    "country": {
+      "color_map": [
+        [
+          "Canada",
+          "#4928B4"
+        ],
+        [
+          "China",
+          "#4379CD"
+        ],
+        [
+          "Colombia",
+          "#5CA7A4"
+        ],
+        [
+          "Sweden",
+          "#A4BE56"
+        ],
+        [
+          "USA",
+          "#DC2F24"
+        ],
+        [
+          "Peru",
+          "#CCB742"
+        ],
+        [
+          "Denmark",
+          "#7CB878"
+        ]
+      ],
+      "key": "country",
+      "legendTitle": "country",
+      "menuItem": "country"
+    },
+    "location": {
+      "color_map": [
+        [
+          "New_Brunswick",
+          "#511EA8"
+        ],
+        [
+          "Yunnan",
+          "#4334BF"
+        ],
+        [
+          "Guangdong",
+          "#3F50CC"
+        ],
+        [
+          "La_Union",
+          "#416CCE"
+        ],
+        [
+          "Sta_Rosa_de_Osos",
+          "#4784C7"
+        ],
+        [
+          "Turmeque",
+          "#5098B9"
+        ],
+        [
+          "Tunja",
+          "#5CA7A4"
+        ],
+        [
+          "Halland",
+          "#6BB18E"
+        ],
+        [
+          "Maryland",
+          "#7CB878"
+        ],
+        [
+          "Occopata",
+          "#A4BE56"
+        ],
+        [
+          "Ccatcca",
+          "#B9BC4A"
+        ],
+        [
+          "Colquepata-Milka",
+          "#CCB742"
+        ],
+        [
+          "Yauli_(Sotopampa)",
+          "#DAAC3D"
+        ],
+        [
+          "Washington",
+          "#E39B39"
+        ],
+        [
+          "Denmark",
+          "#E68234"
+        ]
+      ],
+      "key": "location",
+      "legendTitle": "location",
+      "menuItem": "location"
+    },
+    "num_date": {
+      "key": "num_date",
+      "legendTitle": "Sampling date",
+      "menuItem": "date",
+      "type": "continuous"
+    },
+    "virus": {
+      "key": "virus",
+      "legendTitle": "virus",
+      "menuItem": "virus",
+      "type": "discrete"
+    }
+  },
+  "defaults": {
+    "mapTriplicate": true
+  },
+  "filters": [
+    "country",
+    "location",
+    "virus"
+  ],
+  "geo": {
+    "country": {
+      "Canada": {
+        "latitude": 46.701891,
+        "longitude": -66.458237
+      },
+      "China": {
+        "latitude": 25.022673,
+        "longitude": 101.304932
+      },
+      "Colombia": {
+        "latitude": 5.973385,
+        "longitude": -75.361543
+      },
+      "Denmark": {
+        "latitude": 56.433663,
+        "longitude": 9.430837
+      },
+      "Peru": {
+        "latitude": -13.6225,
+        "longitude": -72.09722222
+      },
+      "Sweden": {
+        "latitude": 57.010872,
+        "longitude": 12.794983
+      },
+      "USA": {
+        "latitude": 39.163102,
+        "longitude": -76.662617
+      }
+    },
+    "location": {
+      "Ccatcca": {
+        "latitude": -13.62972222,
+        "longitude": -71.69638889
+      },
+      "Colquepata-Milka": {
+        "latitude": -13.54361111,
+        "longitude": -71.69638889
+      },
+      "Denmark": {
+        "latitude": 56.433663,
+        "longitude": 9.430837
+      },
+      "Guangdong": {
+        "latitude": 23.49076,
+        "longitude": 113.604552
+      },
+      "Halland": {
+        "latitude": 57.488062,
+        "longitude": 8.902645
+      },
+      "La_Union": {
+        "latitude": 5.973385,
+        "longitude": -75.361543
+      },
+      "Maryland": {
+        "latitude": 39.163102,
+        "longitude": -76.662617
+      },
+      "New_Brunswick": {
+        "latitude": 46.701891,
+        "longitude": -66.458237
+      },
+      "Occopata": {
+        "latitude": -13.6225,
+        "longitude": -72.09722222
+      },
+      "Sta_Rosa_de_Osos": {
+        "latitude": 6.647556,
+        "longitude": -75.460133
+      },
+      "Tunja": {
+        "latitude": 5.55093,
+        "longitude": -73.355783
+      },
+      "Turmeque": {
+        "latitude": 5.324276,
+        "longitude": -73.492544
+      },
+      "Washington": {
+        "latitude": 38.163102,
+        "longitude": -77.662617
+      },
+      "Yauli_(Sotopampa)": {
+        "latitude": -12.82111111,
+        "longitude": -76.75861111
+      },
+      "Yunnan": {
+        "latitude": 25.022673,
+        "longitude": 101.304932
+      }
+    }
+  },
+  "maintainer": [
+    "PestDisPlace",
+    "https://pestdisplace.org/"
+  ],
+  "panels": [
+    "tree",
+    "map",
+    "entropy"
+  ],
+  "title": "Real-time tracking of potato mop-top virus evolution",
+  "updated": "30 Jul 2019",
+  "virus_count": 25
+}

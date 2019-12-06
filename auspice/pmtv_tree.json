@@ -1,0 +1,2051 @@
+{
+  "aa_muts": {},
+  "attr": {
+    "clock_length": 0.001,
+    "country": "Colombia",
+    "country_confidence": {
+      "China": 0.09685349067887539,
+      "Colombia": 0.44747789627571694,
+      "Peru": 0.24355655035587126,
+      "Sweden": 0.06621609465325445
+    },
+    "country_entropy": 1.5500385747580008,
+    "date": "1736-10-13",
+    "div": 0,
+    "location": "La_Union",
+    "location_confidence": {
+      "Ccatcca": 0.0802315552481729,
+      "La_Union": 0.22974792453066548,
+      "Sta_Rosa_de_Osos": 0.11786977496407287,
+      "Yunnan": 0.10395321257923897
+    },
+    "location_entropy": 2.4960485604291596,
+    "num_date": 1736.78362918518,
+    "num_date_confidence": [
+      1718.8118126669717,
+      1763.5419888921153
+    ]
+  },
+  "branch_length": 0.001,
+  "children": [
+    {
+      "aa_muts": {},
+      "attr": {
+        "clock_length": 0.003993642089388195,
+        "country": "Colombia",
+        "country_confidence": {
+          "China": 0.03677613800672108,
+          "Colombia": 0.7464630279544173,
+          "Peru": 0.09376965069331689,
+          "Sweden": 0.045308900307808694
+        },
+        "country_entropy": 0.9840667227757887,
+        "date": "1810-08-29",
+        "div": 0.007051798689350371,
+        "location": "La_Union",
+        "location_confidence": {
+          "Ccatcca": 0.04339518708691379,
+          "La_Union": 0.39236437886283304,
+          "Sta_Rosa_de_Osos": 0.18497220884568888,
+          "Yunnan": 0.05948919637292222
+        },
+        "location_entropy": 2.1124879008191693,
+        "num_date": 1810.661617027067,
+        "num_date_confidence": [
+          1794.464720855874,
+          1829.653002520835
+        ]
+      },
+      "branch_length": 0.00399364,
+      "children": [
+        {
+          "aa_muts": {},
+          "attr": {
+            "clock_length": 0.010775836125521234,
+            "country": "Colombia",
+            "country_confidence": {
+              "Colombia": 1.0
+            },
+            "country_entropy": -1.000088900581841e-12,
+            "date": "2010-01-01",
+            "div": 0.016471482001111325,
+            "location": "Sta_Rosa_de_Osos",
+            "location_confidence": {
+              "Sta_Rosa_de_Osos": 1.0
+            },
+            "location_entropy": -1.000088900581841e-12,
+            "num_date": 2010.002737850787,
+            "num_date_confidence": [
+              2010.002737850787,
+              2010.89910066636
+            ],
+            "raw_date": "2010-XX-XX",
+            "virus": "PMTV_1"
+          },
+          "branch_length": 0.01077584,
+          "clade": 0,
+          "muts": [
+            "T18A",
+            "A19G",
+            "G160A",
+            "G253A",
+            "A289G",
+            "C388T",
+            "A427G",
+            "G625A",
+            "A928G",
+            "T991C",
+            "A997C",
+            "G1125A",
+            "G1294A",
+            "A1432G",
+            "G1606A",
+            "G1672A",
+            "T1709C",
+            "A1842T",
+            "C1864T",
+            "A1868C",
+            "G2070A",
+            "G2078A",
+            "G2087T",
+            "C2128T",
+            "A2143G",
+            "A2430G",
+            "T2740C",
+            "A3061G",
+            "A3088G",
+            "A3166G",
+            "T3244C",
+            "C3292T",
+            "T3310A",
+            "T3379C",
+            "T3541A",
+            "G3589A",
+            "C3664T",
+            "G3694A",
+            "G3829A",
+            "T3835C",
+            "G3895A",
+            "A3952G",
+            "C3953T",
+            "T3965C",
+            "C4192T",
+            "C4255A",
+            "G4327A",
+            "T4357C",
+            "G4471A",
+            "C4570T",
+            "T4681C",
+            "G4778A",
+            "A4813G",
+            "C4909T",
+            "A5014G",
+            "T5104C",
+            "A5206G",
+            "A5497G",
+            "G5576T",
+            "A5666G",
+            "T5673G",
+            "T5725C"
+          ],
+          "strain": "KR857352.1",
+          "yvalue": 25
+        },
+        {
+          "aa_muts": {},
+          "attr": {
+            "clock_length": 0.005857627330726538,
+            "country": "Colombia",
+            "country_confidence": {
+              "Colombia": 0.954822124373278,
+              "Peru": 0.01309743855369345,
+              "Sweden": 0.012001960300364878,
+              "USA": 0.007585127568522548
+            },
+            "country_entropy": 0.2594089502918028,
+            "date": "1919-01-07",
+            "div": 0.013764236732714086,
+            "location": "La_Union",
+            "location_confidence": {
+              "Ccatcca": 0.004350398582929008,
+              "La_Union": 0.9320666005761626,
+              "Sta_Rosa_de_Osos": 0.01569333205866472,
+              "Yunnan": 0.007782981363969582
+            },
+            "location_entropy": 0.41733384827815534,
+            "num_date": 1919.0212824742068,
+            "num_date_confidence": [
+              1902.504299005215,
+              1935.8592328374402
+            ]
+          },
+          "branch_length": 0.00585763,
+          "children": [
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 0.00497208106054635,
+                "country": "Colombia",
+                "country_confidence": {
+                  "Colombia": 0.9999999999999999
+                },
+                "country_entropy": -9.99866855976916e-13,
+                "date": "2010-12-30",
+                "div": 0.01963265391333516,
+                "location": "La_Union",
+                "location_confidence": {
+                  "La_Union": 1.0
+                },
+                "location_entropy": -1.000088900581841e-12,
+                "num_date": 2010.9993155373031,
+                "num_date_confidence": [
+                  2010.1023956194388,
+                  2010.9993155373031
+                ],
+                "raw_date": "2010-XX-XX",
+                "virus": "PMTV_1"
+              },
+              "branch_length": 0.00497208,
+              "clade": 1,
+              "muts": [
+                "T18A",
+                "A19G",
+                "G160A",
+                "C223A",
+                "T457C",
+                "G735A",
+                "T839C",
+                "A883G",
+                "C1017T",
+                "G1285A",
+                "A1882G",
+                "A1904G",
+                "T1954C",
+                "C2485T",
+                "C2719T",
+                "T2830C",
+                "T2968C",
+                "G3220A",
+                "T3280C",
+                "T3331C",
+                "G3427A",
+                "G3547A",
+                "T3640C",
+                "T4321C",
+                "C4570T",
+                "C4777T",
+                "C5095T",
+                "G5119A",
+                "A5211G",
+                "T5338C",
+                "T5404C",
+                "A5534G",
+                "T5602G",
+                "C5699T"
+              ],
+              "strain": "KR857349.1",
+              "yvalue": 24
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 0.00497208106054635,
+                "country": "Colombia",
+                "country_confidence": {
+                  "Colombia": 0.9999999999999999
+                },
+                "country_entropy": -9.99866855976916e-13,
+                "date": "2010-12-30",
+                "div": 0.018790154028845738,
+                "location": "La_Union",
+                "location_confidence": {
+                  "La_Union": 1.0
+                },
+                "location_entropy": -1.000088900581841e-12,
+                "num_date": 2010.9993155373031,
+                "num_date_confidence": [
+                  2010.1023956194388,
+                  2010.9993155373031
+                ],
+                "raw_date": "2010-XX-XX",
+                "virus": "PMTV_1"
+              },
+              "branch_length": 0.00497208,
+              "clade": 2,
+              "muts": [
+                "A232G",
+                "A310G",
+                "C652T",
+                "C892T",
+                "T1087C",
+                "G1125A",
+                "A1210G",
+                "A1243G",
+                "G1672A",
+                "A1729G",
+                "G1825A",
+                "A1960G",
+                "G2070A",
+                "A2309G",
+                "A2314G",
+                "A2813G",
+                "C2977T",
+                "G3235A",
+                "G3514A",
+                "G3649A",
+                "A3652G",
+                "T3742A",
+                "G3895A",
+                "T4054C",
+                "C4549T",
+                "T4705C",
+                "C4909T",
+                "G4942A",
+                "T5588C",
+                "T5673G",
+                "T5684A"
+              ],
+              "strain": "KR857361.1",
+              "yvalue": 23
+            }
+          ],
+          "clade": 3,
+          "muts": [
+            "A427T",
+            "C760T",
+            "C889T",
+            "G1141A",
+            "G1276A",
+            "A1355C",
+            "A1357G",
+            "T1363C",
+            "A1372G",
+            "T1463C",
+            "A1507G",
+            "T1559C",
+            "C1702T",
+            "A1796G",
+            "G1855A",
+            "G1870A",
+            "T1888C",
+            "A1902T",
+            "A1910G",
+            "T2253C",
+            "C2271T",
+            "C2316A",
+            "C2331T",
+            "T2379A",
+            "C2541T",
+            "T2662C",
+            "T2923C",
+            "T3451C",
+            "A3529G",
+            "A3613G",
+            "A4378G",
+            "G4384A",
+            "G4873A",
+            "T4930C",
+            "A5029G",
+            "C5266T",
+            "G5419A",
+            "G5685A",
+            "A5736G"
+          ],
+          "strain": "NODE_0000022",
+          "yvalue": 23.5
+        }
+      ],
+      "clade": 4,
+      "muts": [],
+      "strain": "NODE_0000021",
+      "yvalue": 24.25
+    },
+    {
+      "aa_muts": {},
+      "attr": {
+        "clock_length": 0.007504928036981084,
+        "country": "Peru",
+        "country_confidence": {
+          "China": 0.19587806224476031,
+          "Colombia": 0.0836614234312637,
+          "Denmark": 0.023895831051892403,
+          "Peru": 0.6281938813246966
+        },
+        "country_entropy": 1.166652364867407,
+        "date": "1875-08-13",
+        "div": 0.004189324824354714,
+        "location": "Yunnan",
+        "location_confidence": {
+          "Ccatcca": 0.18116104010815806,
+          "Colquepata-Milka": 0.07964648619049376,
+          "Occopata": 0.1238968073810064,
+          "Yunnan": 0.2336764411149616
+        },
+        "location_entropy": 2.3496798733947317,
+        "num_date": 1875.6165465724425,
+        "num_date_confidence": [
+          1853.1200740905424,
+          1889.0221538362305
+        ]
+      },
+      "branch_length": 0.00750493,
+      "children": [
+        {
+          "aa_muts": {},
+          "attr": {
+            "clock_length": 0.007447294079403234,
+            "country": "China",
+            "country_confidence": {
+              "China": 1.0
+            },
+            "country_entropy": -1.000088900581841e-12,
+            "date": "2013-05-20",
+            "div": 0.011747303203813574,
+            "location": "Yunnan",
+            "location_confidence": {
+              "Yunnan": 1.0
+            },
+            "location_entropy": -1.000088900581841e-12,
+            "num_date": 2013.3832991101985,
+            "num_date_confidence": [
+              2013.3832991101985,
+              2013.3832991101985
+            ],
+            "raw_date": "2013-05-20",
+            "virus": "PMTV_1"
+          },
+          "branch_length": 0.00744729,
+          "clade": 5,
+          "muts": [
+            "G28A",
+            "A53G",
+            "T124C",
+            "A399G",
+            "A451G",
+            "T613G",
+            "T649C",
+            "G811A",
+            "C978T",
+            "A1228G",
+            "G1360A",
+            "T1506C",
+            "G1562T",
+            "G1606A",
+            "T1768C",
+            "T1808C",
+            "A1849G",
+            "T1987C",
+            "A2092G",
+            "A2204G",
+            "C2323T",
+            "T2386C",
+            "G2737A",
+            "T3065G",
+            "A3088G",
+            "A3166G",
+            "T3355C",
+            "T3367C",
+            "C3463T",
+            "A3474G",
+            "A3691G",
+            "A4147C",
+            "A4261G",
+            "A4400G",
+            "A4576G",
+            "T4666C",
+            "A4810G",
+            "A5188G",
+            "G5248A",
+            "C5252T",
+            "T5380C",
+            "T5434C",
+            "A5478G",
+            "A5552G",
+            "A5556G",
+            "T5560C"
+          ],
+          "strain": "KM822696.1",
+          "yvalue": 22
+        },
+        {
+          "aa_muts": {},
+          "attr": {
+            "clock_length": 0.002877079028506856,
+            "country": "Peru",
+            "country_confidence": {
+              "China": 0.007294059503221974,
+              "Colombia": 0.004051720463135291,
+              "Denmark": 0.0024518648075085047,
+              "Peru": 0.9832016244992506
+            },
+            "country_entropy": 0.11032662711014034,
+            "date": "1928-11-02",
+            "div": 0.007707324349301086,
+            "location": "Ccatcca",
+            "location_confidence": {
+              "Ccatcca": 0.28741712375140155,
+              "Colquepata-Milka": 0.11942625410639232,
+              "Occopata": 0.20307266933236423,
+              "Yauli_(Sotopampa)": 0.09818611979638202
+            },
+            "location_entropy": 2.1300628053428574,
+            "num_date": 1928.839345393841,
+            "num_date_confidence": [
+              1912.7183524590391,
+              1937.5483375518097
+            ]
+          },
+          "branch_length": 0.00287708,
+          "children": [
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 0.004151614549879751,
+                "country": "Peru",
+                "country_confidence": {
+                  "Peru": 0.9997465909948476
+                },
+                "country_entropy": 0.0027596144847568792,
+                "date": "2005-08-21",
+                "div": 0.011056458875946014,
+                "location": "Ccatcca",
+                "location_confidence": {
+                  "Ccatcca": 0.9974253432707418
+                },
+                "location_entropy": 0.023940473210600305,
+                "num_date": 2005.6396500719213,
+                "num_date_confidence": [
+                  1996.2596820937786,
+                  2009.014327170245
+                ]
+              },
+              "branch_length": 0.00415161,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 0.00018801536354113506,
+                    "country": "Peru",
+                    "country_confidence": {
+                      "Peru": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2009-02-12",
+                    "div": 0.011056458875946036,
+                    "location": "Ccatcca",
+                    "location_confidence": {
+                      "Ccatcca": 1.0
+                    },
+                    "location_entropy": -1.000088900581841e-12,
+                    "num_date": 2009.1177275838468,
+                    "num_date_confidence": [
+                      2009.1177275838468,
+                      2009.1177275838468
+                    ],
+                    "raw_date": "2009-02-12",
+                    "virus": "PMTV_1"
+                  },
+                  "branch_length": 0.00018802,
+                  "clade": 6,
+                  "muts": [],
+                  "strain": "KU955470.1",
+                  "yvalue": 21
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 0.00018801536354113506,
+                    "country": "Peru",
+                    "country_confidence": {
+                      "Peru": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2009-02-12",
+                    "div": 0.011223428722419094,
+                    "location": "Ccatcca",
+                    "location_confidence": {
+                      "Ccatcca": 1.0
+                    },
+                    "location_entropy": -1.000088900581841e-12,
+                    "num_date": 2009.1177275838468,
+                    "num_date_confidence": [
+                      2009.1177275838468,
+                      2009.1177275838468
+                    ],
+                    "raw_date": "2009-02-12",
+                    "virus": "PMTV_1"
+                  },
+                  "branch_length": 0.00018802,
+                  "clade": 7,
+                  "muts": [
+                    "C659T"
+                  ],
+                  "strain": "KU955469.1",
+                  "yvalue": 20
+                }
+              ],
+              "clade": 8,
+              "muts": [
+                "T1171C",
+                "G1534T",
+                "A1756G",
+                "A1787G",
+                "G1945A",
+                "G2015T",
+                "T2368A",
+                "A3277G",
+                "T3661C",
+                "G3673A",
+                "A3906G",
+                "T4177C",
+                "T4693A",
+                "A4759G",
+                "T4862C",
+                "A4966G",
+                "C5027T",
+                "G5227A",
+                "T5668A",
+                "C5718T",
+                "T5879C"
+              ],
+              "strain": "NODE_0000019",
+              "yvalue": 20.5
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": -3.7446656061751807e-06,
+                "country": "Peru",
+                "country_confidence": {
+                  "Colombia": 0.0010362177962868109,
+                  "Denmark": 0.001719278115436001,
+                  "Peru": 0.9956217791190499
+                },
+                "country_entropy": 0.03480262959266567,
+                "date": "1928-10-08",
+                "div": 0.007874336639765934,
+                "location": "Occopata",
+                "location_confidence": {
+                  "Ccatcca": 0.15362279012619273,
+                  "Colquepata-Milka": 0.16644733071521897,
+                  "Occopata": 0.27755370287816555,
+                  "Yauli_(Sotopampa)": 0.1349670384556042
+                },
+                "location_entropy": 2.0864997560845726,
+                "num_date": 1928.7700731972013,
+                "num_date_confidence": [
+                  1917.6517801341927,
+                  1941.4231660738697
+                ]
+              },
+              "branch_length": -3.74e-06,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 0.0009025381798014988,
+                    "country": "Peru",
+                    "country_confidence": {
+                      "Peru": 0.9987786604638961
+                    },
+                    "country_entropy": 0.011323533796845387,
+                    "date": "1945-06-19",
+                    "div": 0.008208374987262157,
+                    "location": "Occopata",
+                    "location_confidence": {
+                      "Ccatcca": 0.08892353714052187,
+                      "Colquepata-Milka": 0.096139520269944,
+                      "Occopata": 0.41727262123329306,
+                      "Yauli_(Sotopampa)": 0.2285551121073603
+                    },
+                    "location_entropy": 1.797335385873796,
+                    "num_date": 1945.4660372274755,
+                    "num_date_confidence": [
+                      1929.0071739749765,
+                      1954.456197106443
+                    ]
+                  },
+                  "branch_length": 0.00090254,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.002773224735753273,
+                        "country": "Peru",
+                        "country_confidence": {
+                          "Peru": 0.9998869519566173
+                        },
+                        "country_entropy": 0.0013249095298780286,
+                        "date": "1996-10-07",
+                        "div": 0.010549692868450608,
+                        "location": "Occopata",
+                        "location_confidence": {
+                          "Occopata": 0.9967718297909991,
+                          "Yauli_(Sotopampa)": 0.0011610853699900022
+                        },
+                        "location_entropy": 0.02836576075570202,
+                        "num_date": 1996.767645815587,
+                        "num_date_confidence": [
+                          1988.0443535718707,
+                          2003.3587218680414
+                        ]
+                      },
+                      "branch_length": 0.00277322,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.0006677596642023727,
+                            "country": "Peru",
+                            "country_confidence": {
+                              "Peru": 0.9999999999999999
+                            },
+                            "country_entropy": -9.99866855976916e-13,
+                            "date": "2009-02-13",
+                            "div": 0.011050668192652883,
+                            "location": "Occopata",
+                            "location_confidence": {
+                              "Occopata": 1.0
+                            },
+                            "location_entropy": -1.000088900581841e-12,
+                            "num_date": 2009.1204654346338,
+                            "num_date_confidence": [
+                              2009.1204654346338,
+                              2009.1204654346338
+                            ],
+                            "raw_date": "2009-02-13",
+                            "virus": "PMTV_1"
+                          },
+                          "branch_length": 0.00066776,
+                          "clade": 9,
+                          "muts": [
+                            "G1672A",
+                            "C4730T",
+                            "G5809A"
+                          ],
+                          "strain": "KU955472.1",
+                          "yvalue": 19
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.0006677596642023727,
+                            "country": "Peru",
+                            "country_confidence": {
+                              "Peru": 0.9999999999999999
+                            },
+                            "country_entropy": -9.99866855976916e-13,
+                            "date": "2009-02-13",
+                            "div": 0.0107166327845012,
+                            "location": "Occopata",
+                            "location_confidence": {
+                              "Occopata": 1.0
+                            },
+                            "location_entropy": -1.000088900581841e-12,
+                            "num_date": 2009.1204654346338,
+                            "num_date_confidence": [
+                              2009.1204654346338,
+                              2009.1204654346338
+                            ],
+                            "raw_date": "2009-02-13",
+                            "virus": "PMTV_1"
+                          },
+                          "branch_length": 0.00066776,
+                          "clade": 10,
+                          "muts": [
+                            "T2335C"
+                          ],
+                          "strain": "KU955471.1",
+                          "yvalue": 18
+                        }
+                      ],
+                      "clade": 11,
+                      "muts": [
+                        "G730A",
+                        "T1264C",
+                        "A1787G",
+                        "T2379A",
+                        "A3106G",
+                        "A3613G",
+                        "T3670C",
+                        "T3676C",
+                        "T3913C",
+                        "C4278T",
+                        "A4459G",
+                        "A5206G",
+                        "A5374G",
+                        "A5531G"
+                      ],
+                      "strain": "NODE_0000016",
+                      "yvalue": 18.5
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.003441576402875992,
+                        "country": "Peru",
+                        "country_confidence": {
+                          "Peru": 0.9998608118761111
+                        },
+                        "country_entropy": 0.0016030207345286932,
+                        "date": "2009-02-17",
+                        "div": 0.01189151357280062,
+                        "location": "Yauli_(Sotopampa)",
+                        "location_confidence": {
+                          "Occopata": 0.0015914437914163588,
+                          "Yauli_(Sotopampa)": 0.9967637954051527
+                        },
+                        "location_entropy": 0.028018679689381338,
+                        "num_date": 2009.1314168377824,
+                        "num_date_confidence": [
+                          2004.2349481975782,
+                          2009.1314168377824
+                        ]
+                      },
+                      "branch_length": 0.00344158,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.0,
+                            "country": "Peru",
+                            "country_confidence": {
+                              "Peru": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2009-02-17",
+                            "div": 0.011891513572800643,
+                            "location": "Yauli_(Sotopampa)",
+                            "location_confidence": {
+                              "Yauli_(Sotopampa)": 1.0
+                            },
+                            "location_entropy": -1.000088900581841e-12,
+                            "num_date": 2009.1314168377824,
+                            "num_date_confidence": [
+                              2009.1314168377824,
+                              2009.1314168377824
+                            ],
+                            "raw_date": "2009-02-17",
+                            "virus": "PMTV_1"
+                          },
+                          "branch_length": 0.0,
+                          "clade": 12,
+                          "muts": [],
+                          "strain": "KU955465.1",
+                          "yvalue": 17
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.0,
+                            "country": "Peru",
+                            "country_confidence": {
+                              "Peru": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2009-02-17",
+                            "div": 0.011891513572800643,
+                            "location": "Yauli_(Sotopampa)",
+                            "location_confidence": {
+                              "Yauli_(Sotopampa)": 1.0
+                            },
+                            "location_entropy": -1.000088900581841e-12,
+                            "num_date": 2009.1314168377824,
+                            "num_date_confidence": [
+                              2009.1314168377824,
+                              2009.1314168377824
+                            ],
+                            "raw_date": "2009-02-17",
+                            "virus": "PMTV_1"
+                          },
+                          "branch_length": 0.0,
+                          "clade": 13,
+                          "muts": [],
+                          "strain": "KU955464.1",
+                          "yvalue": 16
+                        }
+                      ],
+                      "clade": 14,
+                      "muts": [
+                        "G245A",
+                        "A451T",
+                        "T496C",
+                        "A523G",
+                        "T661C",
+                        "C937T",
+                        "C1544T",
+                        "T1658C",
+                        "A1753G",
+                        "T1792C",
+                        "A1840G",
+                        "A1848G",
+                        "A2362G",
+                        "A2998G",
+                        "A3691G",
+                        "A3898G",
+                        "T4180A",
+                        "A4383G",
+                        "A4651G",
+                        "C5215T",
+                        "G5545A",
+                        "T5653C"
+                      ],
+                      "strain": "NODE_0000017",
+                      "yvalue": 16.5
+                    }
+                  ],
+                  "clade": 15,
+                  "muts": [
+                    "A736G",
+                    "T5236C"
+                  ],
+                  "strain": "NODE_0000015",
+                  "yvalue": 17.5
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 0.0004363222295493737,
+                    "country": "Peru",
+                    "country_confidence": {
+                      "Colombia": 0.005205699445580289,
+                      "Denmark": 0.014969667249772738,
+                      "Peru": 0.9710795048128201,
+                      "Sweden": 0.003686482901443066
+                    },
+                    "country_entropy": 0.1717235735362868,
+                    "date": "1936-11-03",
+                    "div": 0.008375470618348514,
+                    "location": "Colquepata-Milka",
+                    "location_confidence": {
+                      "Colquepata-Milka": 0.28856279603552104,
+                      "Denmark": 0.1156260956626667,
+                      "Halland": 0.15610485024466034,
+                      "Occopata": 0.16531341504944927
+                    },
+                    "location_entropy": 2.084321860474907,
+                    "num_date": 1936.841554729171,
+                    "num_date_confidence": [
+                      1925.5821958022088,
+                      1948.2636011941454
+                    ]
+                  },
+                  "branch_length": 0.00043632,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.0032388762684427827,
+                        "country": "Peru",
+                        "country_confidence": {
+                          "Peru": 0.9999937841656907
+                        },
+                        "country_entropy": 8.993468497885978e-05,
+                        "date": "1996-10-03",
+                        "div": 0.011723489182498848,
+                        "location": "Colquepata-Milka",
+                        "location_confidence": {
+                          "Colquepata-Milka": 0.9999631364645624
+                        },
+                        "location_entropy": 0.000490623499849643,
+                        "num_date": 1996.7572047112278,
+                        "num_date_confidence": [
+                          1990.200581088622,
+                          2005.1793695951092
+                        ]
+                      },
+                      "branch_length": 0.00323888,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.0006683240817649876,
+                            "country": "Peru",
+                            "country_confidence": {
+                              "Peru": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2009-02-13",
+                            "div": 0.012057568961489708,
+                            "location": "Colquepata-Milka",
+                            "location_confidence": {
+                              "Colquepata-Milka": 1.0
+                            },
+                            "location_entropy": -1.000088900581841e-12,
+                            "num_date": 2009.1204654346338,
+                            "num_date_confidence": [
+                              2009.1204654346338,
+                              2009.1204654346338
+                            ],
+                            "raw_date": "2009-02-13",
+                            "virus": "PMTV_1"
+                          },
+                          "branch_length": 0.00066832,
+                          "clade": 16,
+                          "muts": [
+                            "T393C",
+                            "A3086G"
+                          ],
+                          "strain": "KU955466.1",
+                          "yvalue": 15
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.000668176081034904,
+                            "country": "Peru",
+                            "country_confidence": {
+                              "Peru": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2009-02-12",
+                            "div": 0.01172348918249887,
+                            "location": "Colquepata-Milka",
+                            "location_confidence": {
+                              "Colquepata-Milka": 1.0
+                            },
+                            "location_entropy": -1.000088900581841e-12,
+                            "num_date": 2009.1177275838468,
+                            "num_date_confidence": [
+                              2009.1177275838468,
+                              2009.1177275838468
+                            ],
+                            "raw_date": "2009-02-12",
+                            "virus": "PMTV_1"
+                          },
+                          "branch_length": 0.00066818,
+                          "clade": 17,
+                          "muts": [],
+                          "strain": "KU955468.1",
+                          "yvalue": 14
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.000668176081034904,
+                            "country": "Peru",
+                            "country_confidence": {
+                              "Peru": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2009-02-12",
+                            "div": 0.011890533202757573,
+                            "location": "Colquepata-Milka",
+                            "location_confidence": {
+                              "Colquepata-Milka": 1.0
+                            },
+                            "location_entropy": -1.000088900581841e-12,
+                            "num_date": 2009.1177275838468,
+                            "num_date_confidence": [
+                              2009.1177275838468,
+                              2009.1177275838468
+                            ],
+                            "raw_date": "2009-02-12",
+                            "virus": "PMTV_1"
+                          },
+                          "branch_length": 0.00066818,
+                          "clade": 18,
+                          "muts": [
+                            "A1924T"
+                          ],
+                          "strain": "KU955467.1",
+                          "yvalue": 13
+                        }
+                      ],
+                      "clade": 19,
+                      "muts": [
+                        "G982A",
+                        "A1273G",
+                        "C1819T",
+                        "T1861A",
+                        "T1959C",
+                        "G2070A",
+                        "A2171G",
+                        "G2540A",
+                        "A2967G",
+                        "C3212T",
+                        "G3214A",
+                        "C3466T",
+                        "G3469A",
+                        "T3541C",
+                        "T3599C",
+                        "C3862T",
+                        "G3943A",
+                        "A4576G",
+                        "C4726T",
+                        "G5227A"
+                      ],
+                      "strain": "NODE_0000012",
+                      "yvalue": 14.0
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.002126740896472733,
+                        "country": "Denmark",
+                        "country_confidence": {
+                          "Colombia": 0.1025674627766307,
+                          "Denmark": 0.39762515924289266,
+                          "Peru": 0.260818112618595,
+                          "Sweden": 0.1305982898538444
+                        },
+                        "country_entropy": 1.5573567542969686,
+                        "date": "1976-03-08",
+                        "div": 0.012395078213748485,
+                        "location": "Halland",
+                        "location_confidence": {
+                          "Colquepata-Milka": 0.05912104223693524,
+                          "Denmark": 0.34254222036145004,
+                          "Halland": 0.4239390424742838,
+                          "Occopata": 0.031070727205245223
+                        },
+                        "location_entropy": 1.5930468201322043,
+                        "num_date": 1976.1839230675735,
+                        "num_date_confidence": [
+                          1970.3685177563245,
+                          1981.3502621996574
+                        ]
+                      },
+                      "branch_length": 0.00212674,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.0015192011649490136,
+                            "country": "Denmark",
+                            "country_confidence": {
+                              "Denmark": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2004-04-14",
+                            "div": 0.013397594980523005,
+                            "location": "Denmark",
+                            "location_confidence": {
+                              "Denmark": 1.0
+                            },
+                            "location_entropy": -1.000088900581841e-12,
+                            "num_date": 2004.2874743326488,
+                            "num_date_confidence": [
+                              2004.2874743326488,
+                              2004.2874743326488
+                            ],
+                            "raw_date": "2004-04-14",
+                            "virus": "PMTV_1"
+                          },
+                          "branch_length": 0.0015192,
+                          "clade": 20,
+                          "muts": [
+                            "C145T",
+                            "A2317G",
+                            "T2335A",
+                            "A3253G",
+                            "T3706C",
+                            "T5404C"
+                          ],
+                          "strain": "AY196959.3",
+                          "yvalue": 12
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.00016122609689383366,
+                            "country": "Sweden",
+                            "country_confidence": {
+                              "Colombia": 0.2240435436579967,
+                              "Denmark": 0.12701995103272218,
+                              "Sweden": 0.30849599436973396,
+                              "USA": 0.12713202959263584
+                            },
+                            "country_entropy": 1.7268342232220806,
+                            "date": "1979-03-01",
+                            "div": 0.01256206186393589,
+                            "location": "Halland",
+                            "location_confidence": {
+                              "Denmark": 0.06365125347771793,
+                              "Halland": 0.7605243985948406,
+                              "Maryland": 0.04925104452776028,
+                              "New_Brunswick": 0.05287630856549854
+                            },
+                            "location_entropy": 1.0198744245693159,
+                            "num_date": 1979.1664285999964,
+                            "num_date_confidence": [
+                              1973.54880606432,
+                              1983.1750466028689
+                            ]
+                          },
+                          "branch_length": 0.00016123,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 0.0003032127426112433,
+                                "country": "Colombia",
+                                "country_confidence": {
+                                  "Canada": 0.043748349972094216,
+                                  "Colombia": 0.45749462320553036,
+                                  "Sweden": 0.17314818900974718,
+                                  "USA": 0.2487230955213655
+                                },
+                                "country_entropy": 1.4086517837596082,
+                                "date": "1984-10-10",
+                                "div": 0.012562061863935912,
+                                "location": "Halland",
+                                "location_confidence": {
+                                  "Denmark": 0.027386413715525935,
+                                  "Halland": 0.7224258613762885,
+                                  "Maryland": 0.11668860006857222,
+                                  "Tunja": 0.0679120596560318
+                                },
+                                "location_entropy": 1.063266188145427,
+                                "num_date": 1984.7755309709028,
+                                "num_date_confidence": [
+                                  1979.74656651949,
+                                  1992.923801603296
+                                ]
+                              },
+                              "branch_length": 0.00030321,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 0.0016517602704322477,
+                                    "country": "USA",
+                                    "country_confidence": {
+                                      "USA": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2015-05-01",
+                                    "div": 0.013063090323526864,
+                                    "location": "Maryland",
+                                    "location_confidence": {
+                                      "Maryland": 1.0
+                                    },
+                                    "location_entropy": -1.000088900581841e-12,
+                                    "num_date": 2015.331279945243,
+                                    "num_date_confidence": [
+                                      2015.331279945243,
+                                      2015.4052019164956
+                                    ],
+                                    "raw_date": "2015-05-XX",
+                                    "virus": "PMTV_1"
+                                  },
+                                  "branch_length": 0.00165176,
+                                  "clade": 21,
+                                  "muts": [
+                                    "T283C",
+                                    "T1899C",
+                                    "A4795G"
+                                  ],
+                                  "strain": "KY275269.1",
+                                  "yvalue": 11
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 0.00035307252012341706,
+                                    "country": "Colombia",
+                                    "country_confidence": {
+                                      "Canada": 0.0023756302750695055,
+                                      "Colombia": 0.8722419476958708,
+                                      "Sweden": 0.10834271250503737,
+                                      "USA": 0.012593569162791172
+                                    },
+                                    "country_entropy": 0.4576294941601553,
+                                    "date": "1991-04-22",
+                                    "div": 0.012562061863935934,
+                                    "location": "Halland",
+                                    "location_confidence": {
+                                      "Halland": 0.7260076475402715,
+                                      "Maryland": 0.039985409573376485,
+                                      "Tunja": 0.1568601770141196,
+                                      "Turmeque": 0.045744488100236125
+                                    },
+                                    "location_entropy": 0.9631528918323531,
+                                    "num_date": 1991.3069844074269,
+                                    "num_date_confidence": [
+                                      1984.7160344485249,
+                                      1997.0580384695734
+                                    ]
+                                  },
+                                  "branch_length": 0.00035307,
+                                  "children": [
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "clock_length": 0.0010106413293770634,
+                                        "country": "Colombia",
+                                        "country_confidence": {
+                                          "Colombia": 1.0
+                                        },
+                                        "country_entropy": -1.000088900581841e-12,
+                                        "date": "2010-01-01",
+                                        "div": 0.012896080147993408,
+                                        "location": "Tunja",
+                                        "location_confidence": {
+                                          "Tunja": 1.0
+                                        },
+                                        "location_entropy": -1.000088900581841e-12,
+                                        "num_date": 2010.002737850787,
+                                        "num_date_confidence": [
+                                          2010.002737850787,
+                                          2010.8878096285223
+                                        ],
+                                        "raw_date": "2010-XX-XX",
+                                        "virus": "PMTV_1"
+                                      },
+                                      "branch_length": 0.00101064,
+                                      "clade": 22,
+                                      "muts": [
+                                        "G2827A",
+                                        "C5086T"
+                                      ],
+                                      "strain": "KR857358.1",
+                                      "yvalue": 10
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "clock_length": 0.0002982994249220326,
+                                        "country": "Colombia",
+                                        "country_confidence": {
+                                          "Colombia": 0.8551024372395233,
+                                          "Sweden": 0.13920652033585207,
+                                          "USA": 0.0032115368202161793
+                                        },
+                                        "country_entropy": 0.4448896927202793,
+                                        "date": "1996-10-28",
+                                        "div": 0.012562061863935957,
+                                        "location": "Halland",
+                                        "location_confidence": {
+                                          "Halland": 0.8070194482583031,
+                                          "Maryland": 0.011985448957364574,
+                                          "Tunja": 0.044893142399741286,
+                                          "Turmeque": 0.12150800950597787
+                                        },
+                                        "location_entropy": 0.7150175933532685,
+                                        "num_date": 1996.8251958030326,
+                                        "num_date_confidence": [
+                                          1990.5954525157465,
+                                          1999.3372265293174
+                                        ]
+                                      },
+                                      "branch_length": 0.0002983,
+                                      "children": [
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "clock_length": 0.0007123419044550309,
+                                            "country": "Colombia",
+                                            "country_confidence": {
+                                              "Colombia": 1.0
+                                            },
+                                            "country_entropy": -1.000088900581841e-12,
+                                            "date": "2010-01-01",
+                                            "div": 0.01289606899614808,
+                                            "location": "Turmeque",
+                                            "location_confidence": {
+                                              "Turmeque": 1.0
+                                            },
+                                            "location_entropy": -1.000088900581841e-12,
+                                            "num_date": 2010.002737850787,
+                                            "num_date_confidence": [
+                                              2010.002737850787,
+                                              2010.8992663704141
+                                            ],
+                                            "raw_date": "2010-XX-XX",
+                                            "virus": "PMTV_1"
+                                          },
+                                          "branch_length": 0.00071234,
+                                          "clade": 23,
+                                          "muts": [
+                                            "G730A",
+                                            "G4927A"
+                                          ],
+                                          "strain": "KR857355.1",
+                                          "yvalue": 9
+                                        },
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "clock_length": 0.00011771197114811977,
+                                            "country": "Sweden",
+                                            "country_confidence": {
+                                              "Sweden": 1.0
+                                            },
+                                            "country_entropy": -1.000088900581841e-12,
+                                            "date": "1999-01-01",
+                                            "div": 0.01256206186393598,
+                                            "location": "Halland",
+                                            "location_confidence": {
+                                              "Halland": 1.0
+                                            },
+                                            "location_entropy": -1.000088900581841e-12,
+                                            "num_date": 1999.002737850787,
+                                            "num_date_confidence": [
+                                              1999.002737850787,
+                                              1999.891756059529
+                                            ],
+                                            "raw_date": "1999-XX-XX",
+                                            "virus": "PMTV_1"
+                                          },
+                                          "branch_length": 0.00011771,
+                                          "clade": 24,
+                                          "muts": [],
+                                          "strain": "KU955473.1",
+                                          "yvalue": 8
+                                        }
+                                      ],
+                                      "clade": 25,
+                                      "muts": [],
+                                      "strain": "NODE_0000026",
+                                      "yvalue": 8.5
+                                    }
+                                  ],
+                                  "clade": 26,
+                                  "muts": [],
+                                  "strain": "NODE_0000025",
+                                  "yvalue": 9.25
+                                }
+                              ],
+                              "clade": 27,
+                              "muts": [],
+                              "strain": "NODE_0000024",
+                              "yvalue": 10.125
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 7.94398784196423e-05,
+                                "country": "Sweden",
+                                "country_confidence": {
+                                  "Canada": 0.26562215294121927,
+                                  "Colombia": 0.07567493904243602,
+                                  "Sweden": 0.5183174052734549,
+                                  "USA": 0.06693290632386956
+                                },
+                                "country_entropy": 1.3316287800920503,
+                                "date": "1980-08-20",
+                                "div": 0.012729056755566426,
+                                "location": "Halland",
+                                "location_confidence": {
+                                  "Denmark": 0.01915244090837569,
+                                  "Halland": 0.824283662272387,
+                                  "Maryland": 0.014965140859525673,
+                                  "New_Brunswick": 0.11245022608943576
+                                },
+                                "location_entropy": 0.7079873227861574,
+                                "num_date": 1980.6359790105457,
+                                "num_date_confidence": [
+                                  1975.6583711153573,
+                                  1984.533182004532
+                                ]
+                              },
+                              "branch_length": 7.944e-05,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 0.0009947283457973695,
+                                    "country": "Sweden",
+                                    "country_confidence": {
+                                      "Canada": 0.0048748550079609045,
+                                      "Colombia": 0.0020593803849018,
+                                      "Sweden": 0.9907762081395814
+                                    },
+                                    "country_entropy": 0.06462373126749986,
+                                    "date": "1999-01-13",
+                                    "div": 0.01590892766691651,
+                                    "location": "Halland",
+                                    "location_confidence": {
+                                      "Halland": 0.9972167265479939,
+                                      "New_Brunswick": 0.0016611071492107412
+                                    },
+                                    "location_entropy": 0.023406314496123525,
+                                    "num_date": 1999.0373597532193,
+                                    "num_date_confidence": [
+                                      1996.9185510565012,
+                                      1999.4982776711747
+                                    ]
+                                  },
+                                  "branch_length": 0.00099473,
+                                  "children": [
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "clock_length": 2.8378222715773685e-05,
+                                        "country": "Sweden",
+                                        "country_confidence": {
+                                          "Sweden": 1.0
+                                        },
+                                        "country_entropy": -1.000088900581841e-12,
+                                        "date": "1999-07-24",
+                                        "div": 0.015908927666916532,
+                                        "location": "Halland",
+                                        "location_confidence": {
+                                          "Halland": 1.0
+                                        },
+                                        "location_entropy": -1.000088900581841e-12,
+                                        "num_date": 1999.5623256730098,
+                                        "num_date_confidence": [
+                                          1999.002737850787,
+                                          1999.9993155373031
+                                        ],
+                                        "raw_date": "1999-XX-XX",
+                                        "virus": "PMTV_1"
+                                      },
+                                      "branch_length": 2.838e-05,
+                                      "clade": 28,
+                                      "muts": [],
+                                      "strain": "NC_003723.1",
+                                      "yvalue": 7
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "clock_length": 2.8378222715773685e-05,
+                                        "country": "Sweden",
+                                        "country_confidence": {
+                                          "Sweden": 1.0
+                                        },
+                                        "country_entropy": -1.000088900581841e-12,
+                                        "date": "1999-07-24",
+                                        "div": 0.015908927666916532,
+                                        "location": "Halland",
+                                        "location_confidence": {
+                                          "Halland": 1.0
+                                        },
+                                        "location_entropy": -1.000088900581841e-12,
+                                        "num_date": 1999.5623256730098,
+                                        "num_date_confidence": [
+                                          1999.002737850787,
+                                          1999.9993155373031
+                                        ],
+                                        "raw_date": "1999-XX-XX",
+                                        "virus": "PMTV_1"
+                                      },
+                                      "branch_length": 2.838e-05,
+                                      "clade": 29,
+                                      "muts": [],
+                                      "strain": "AJ238607.1",
+                                      "yvalue": 6
+                                    }
+                                  ],
+                                  "clade": 30,
+                                  "muts": [
+                                    "T49C",
+                                    "A736G",
+                                    "A815G",
+                                    "T1171C",
+                                    "G1269A",
+                                    "A1372G",
+                                    "T1537A",
+                                    "A2410G",
+                                    "T3355C",
+                                    "T3916C",
+                                    "A4109G",
+                                    "A4366G",
+                                    "A4711G",
+                                    "G4736C",
+                                    "A4810G",
+                                    "A4961G",
+                                    "T5153C",
+                                    "A5475G",
+                                    "G5916C"
+                                  ],
+                                  "strain": "NODE_0000002",
+                                  "yvalue": 6.5
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 0.00010110930743721354,
+                                    "country": "Canada",
+                                    "country_confidence": {
+                                      "Canada": 0.8695779503963872,
+                                      "China": 0.019767752845214204,
+                                      "Sweden": 0.04297959968558101,
+                                      "USA": 0.05408423121915294
+                                    },
+                                    "country_entropy": 0.5640508613334575,
+                                    "date": "1982-07-03",
+                                    "div": 0.012729056755566449,
+                                    "location": "New_Brunswick",
+                                    "location_confidence": {
+                                      "Guangdong": 0.014335417401080724,
+                                      "Halland": 0.05212167188541964,
+                                      "New_Brunswick": 0.9120124976435227,
+                                      "Washington": 0.014107651994352207
+                                    },
+                                    "location_entropy": 0.41210910138006746,
+                                    "num_date": 1982.5063900334553,
+                                    "num_date_confidence": [
+                                      1977.6414259932305,
+                                      1986.266633126066
+                                    ]
+                                  },
+                                  "branch_length": 0.00010111,
+                                  "children": [
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "clock_length": 0.00015384492296521748,
+                                        "country": "Canada",
+                                        "country_confidence": {
+                                          "Canada": 0.8917524508386444,
+                                          "China": 0.006962722008515132,
+                                          "Sweden": 0.01421043093767797,
+                                          "USA": 0.08118544000710032
+                                        },
+                                        "country_entropy": 0.43707959952586206,
+                                        "date": "1985-05-08",
+                                        "div": 0.0128960406501351,
+                                        "location": "New_Brunswick",
+                                        "location_confidence": {
+                                          "Guangdong": 0.0049733425072020585,
+                                          "Halland": 0.016774610130321606,
+                                          "New_Brunswick": 0.9349889574513071,
+                                          "Washington": 0.03837097042259206
+                                        },
+                                        "location_entropy": 0.3204751385111013,
+                                        "num_date": 1985.3523519634343,
+                                        "num_date_confidence": [
+                                          1980.8689760808454,
+                                          1992.2591866326245
+                                        ]
+                                      },
+                                      "branch_length": 0.00015384,
+                                      "children": [
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "clock_length": 0.0010427908724167617,
+                                            "country": "Canada",
+                                            "country_confidence": {
+                                              "Canada": 1.0
+                                            },
+                                            "country_entropy": -1.000088900581841e-12,
+                                            "date": "2004-08-22",
+                                            "div": 0.01389877356256845,
+                                            "location": "New_Brunswick",
+                                            "location_confidence": {
+                                              "New_Brunswick": 1.0
+                                            },
+                                            "location_entropy": -1.000088900581841e-12,
+                                            "num_date": 2004.6428366061978,
+                                            "num_date_confidence": [
+                                              1993.162799251708,
+                                              2021.3140651587078
+                                            ],
+                                            "virus": "PMTV_1"
+                                          },
+                                          "branch_length": 0.00104279,
+                                          "clade": 31,
+                                          "muts": [
+                                            "A997C",
+                                            "T1300C",
+                                            "A1770T",
+                                            "G3797A",
+                                            "G4384A",
+                                            "G4385A"
+                                          ],
+                                          "strain": "KM822709.1",
+                                          "yvalue": 5
+                                        },
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "clock_length": 0.0015213444146981042,
+                                            "country": "USA",
+                                            "country_confidence": {
+                                              "USA": 1.0
+                                            },
+                                            "country_entropy": -1.000088900581841e-12,
+                                            "date": "2013-06-30",
+                                            "div": 0.014400603062906104,
+                                            "location": "Washington",
+                                            "location_confidence": {
+                                              "Washington": 1.0
+                                            },
+                                            "location_entropy": -1.000088900581841e-12,
+                                            "num_date": 2013.495550992471,
+                                            "num_date_confidence": [
+                                              2013.4240930869269,
+                                              2013.495550992471
+                                            ],
+                                            "raw_date": "2013-06-XX",
+                                            "virus": "PMTV_1"
+                                          },
+                                          "branch_length": 0.00152134,
+                                          "clade": 32,
+                                          "muts": [
+                                            "T1680C",
+                                            "A1734T",
+                                            "A2410G",
+                                            "G2518T",
+                                            "T3637C",
+                                            "G3694A",
+                                            "G3821A",
+                                            "A4203G",
+                                            "T5012C"
+                                          ],
+                                          "strain": "KP420026.1",
+                                          "yvalue": 4
+                                        }
+                                      ],
+                                      "clade": 33,
+                                      "muts": [
+                                        "C2541T"
+                                      ],
+                                      "strain": "NODE_0000000",
+                                      "yvalue": 4.5
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "clock_length": 0.0001269617988275194,
+                                        "country": "Canada",
+                                        "country_confidence": {
+                                          "Canada": 0.9065823639998632,
+                                          "China": 0.0555436109907237,
+                                          "Sweden": 0.014131231613873927,
+                                          "USA": 0.01785571114462384
+                                        },
+                                        "country_entropy": 0.4179111781368508,
+                                        "date": "1984-11-08",
+                                        "div": 0.012729056755566471,
+                                        "location": "New_Brunswick",
+                                        "location_confidence": {
+                                          "Guangdong": 0.0388991360572129,
+                                          "Halland": 0.01648539805451996,
+                                          "New_Brunswick": 0.9350294709398652,
+                                          "Washington": 0.004815447656213404
+                                        },
+                                        "location_entropy": 0.31923561020836255,
+                                        "num_date": 1984.8550437235513,
+                                        "num_date_confidence": [
+                                          1980.16964141795,
+                                          1989.7195207991565
+                                        ]
+                                      },
+                                      "branch_length": 0.00012696,
+                                      "children": [
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "clock_length": 0.001475670180910663,
+                                            "country": "China",
+                                            "country_confidence": {
+                                              "China": 1.0
+                                            },
+                                            "country_entropy": -1.000088900581841e-12,
+                                            "date": "2012-02-24",
+                                            "div": 0.013898669148390892,
+                                            "location": "Guangdong",
+                                            "location_confidence": {
+                                              "Guangdong": 1.0
+                                            },
+                                            "location_entropy": -1.000088900581841e-12,
+                                            "num_date": 2012.1533196440794,
+                                            "num_date_confidence": [
+                                              2012.1533196440794,
+                                              2012.1533196440794
+                                            ],
+                                            "raw_date": "2012-02-25",
+                                            "virus": "PMTV_1"
+                                          },
+                                          "branch_length": 0.00147567,
+                                          "clade": 34,
+                                          "muts": [
+                                            "T664C",
+                                            "A1552G",
+                                            "A1782G",
+                                            "G2454A",
+                                            "A3684G",
+                                            "T4840C",
+                                            "C5519T"
+                                          ],
+                                          "strain": "KM822695.1",
+                                          "yvalue": 3
+                                        },
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "clock_length": 0.0003218654889518399,
+                                            "country": "Canada",
+                                            "country_confidence": {
+                                              "Canada": 0.9973411325674932,
+                                              "China": 0.0015374136933129531
+                                            },
+                                            "country_entropy": 0.021568075254346328,
+                                            "date": "1990-10-22",
+                                            "div": 0.012896063678563538,
+                                            "location": "New_Brunswick",
+                                            "location_confidence": {
+                                              "New_Brunswick": 0.9986032732332751
+                                            },
+                                            "location_entropy": 0.012487024078854173,
+                                            "num_date": 1990.8092013939872,
+                                            "num_date_confidence": [
+                                              1984.6322838424808,
+                                              1996.8864733228786
+                                            ]
+                                          },
+                                          "branch_length": 0.00032187,
+                                          "children": [
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "clock_length": 0.0011817768299452604,
+                                                "country": "Canada",
+                                                "country_confidence": {
+                                                  "Canada": 1.0
+                                                },
+                                                "country_entropy": -1.000088900581841e-12,
+                                                "date": "2012-09-01",
+                                                "div": 0.013564163386525855,
+                                                "location": "New_Brunswick",
+                                                "location_confidence": {
+                                                  "New_Brunswick": 1.0
+                                                },
+                                                "location_entropy": -1.000088900581841e-12,
+                                                "num_date": 2012.6707734428473,
+                                                "num_date_confidence": [
+                                                  2012.6707734428473,
+                                                  2012.7422313483914
+                                                ],
+                                                "raw_date": "2012-09-XX",
+                                                "virus": "PMTV_1"
+                                              },
+                                              "branch_length": 0.00118178,
+                                              "clade": 35,
+                                              "muts": [
+                                                "G235A",
+                                                "T658C",
+                                                "T1116C",
+                                                "T1378C"
+                                              ],
+                                              "strain": "KM822698.1",
+                                              "yvalue": 2
+                                            },
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "clock_length": 0.0011817768299452604,
+                                                "country": "Canada",
+                                                "country_confidence": {
+                                                  "Canada": 1.0
+                                                },
+                                                "country_entropy": -1.000088900581841e-12,
+                                                "date": "2012-09-01",
+                                                "div": 0.013731767035348204,
+                                                "location": "New_Brunswick",
+                                                "location_confidence": {
+                                                  "New_Brunswick": 1.0
+                                                },
+                                                "location_entropy": -1.000088900581841e-12,
+                                                "num_date": 2012.6707734428473,
+                                                "num_date_confidence": [
+                                                  2012.6707734428473,
+                                                  2012.7422313483914
+                                                ],
+                                                "raw_date": "2012-09-XX",
+                                                "virus": "PMTV_1"
+                                              },
+                                              "branch_length": 0.00118178,
+                                              "clade": 36,
+                                              "muts": [
+                                                "A857G",
+                                                "G2083C",
+                                                "G2084C",
+                                                "C2085A",
+                                                "T4588C"
+                                              ],
+                                              "strain": "KM822697.1",
+                                              "yvalue": 1
+                                            }
+                                          ],
+                                          "clade": 37,
+                                          "muts": [
+                                            "G4588T"
+                                          ],
+                                          "strain": "NODE_0000004",
+                                          "yvalue": 1.5
+                                        }
+                                      ],
+                                      "clade": 38,
+                                      "muts": [],
+                                      "strain": "NODE_0000028",
+                                      "yvalue": 2.25
+                                    }
+                                  ],
+                                  "clade": 39,
+                                  "muts": [],
+                                  "strain": "NODE_0000027",
+                                  "yvalue": 3.375
+                                }
+                              ],
+                              "clade": 40,
+                              "muts": [
+                                "T1321A"
+                              ],
+                              "strain": "NODE_0000001",
+                              "yvalue": 4.9375
+                            }
+                          ],
+                          "clade": 41,
+                          "muts": [
+                            "A2347G"
+                          ],
+                          "strain": "NODE_0000006",
+                          "yvalue": 7.53125
+                        }
+                      ],
+                      "clade": 42,
+                      "muts": [
+                        "A19G",
+                        "T607C",
+                        "G871A",
+                        "C937T",
+                        "C1271T",
+                        "A1432G",
+                        "G1606A",
+                        "G1783A",
+                        "T2042C",
+                        "T2341C",
+                        "G2344A",
+                        "T2875C",
+                        "C3004T",
+                        "G3547A",
+                        "G4564A",
+                        "C4670A",
+                        "A4783G",
+                        "C4825T",
+                        "G5419A",
+                        "T5434C",
+                        "A5530T",
+                        "T5602C",
+                        "T5654C",
+                        "A5679G"
+                      ],
+                      "strain": "NODE_0000010",
+                      "yvalue": 9.765625
+                    }
+                  ],
+                  "clade": 43,
+                  "muts": [
+                    "A310G",
+                    "G907A",
+                    "A2605G"
+                  ],
+                  "strain": "NODE_0000011",
+                  "yvalue": 11.8828125
+                }
+              ],
+              "clade": 44,
+              "muts": [],
+              "strain": "NODE_0000014",
+              "yvalue": 14.69140625
+            }
+          ],
+          "clade": 45,
+          "muts": [
+            "T145C",
+            "T328C",
+            "G331A",
+            "T574A",
+            "C685T",
+            "G735A",
+            "T1498G",
+            "G1555A",
+            "T1564C",
+            "A1939G",
+            "C2128T",
+            "T2464A",
+            "T2890G",
+            "A3271G",
+            "C3916T",
+            "T4151C",
+            "G4246A",
+            "T4513A",
+            "A5386G",
+            "G5627A",
+            "T5718C"
+          ],
+          "strain": "NODE_0000018",
+          "yvalue": 17.595703125
+        }
+      ],
+      "clade": 46,
+      "muts": [
+        "A10G",
+        "G11A",
+        "G214A",
+        "A229G",
+        "A235G",
+        "T385C",
+        "C421T",
+        "T562G",
+        "G586A",
+        "A874G",
+        "C961T",
+        "G1474A",
+        "G1540A",
+        "C1549T",
+        "C1642T",
+        "C1732T",
+        "G1834A",
+        "G1847A",
+        "C1911T",
+        "A1945G",
+        "A1978T",
+        "G1999A",
+        "G2254A",
+        "G2273A",
+        "A2274G",
+        "A2625G",
+        "G2795A",
+        "A2800G",
+        "G2824A",
+        "C2860T",
+        "A2984C",
+        "T3005C",
+        "A3091G",
+        "C3307T",
+        "A3448T",
+        "A3595G",
+        "C3775T",
+        "T3853C",
+        "A3859T",
+        "C3908T",
+        "A4045T",
+        "C4369T",
+        "T4435A",
+        "T4456C",
+        "C4549T",
+        "A4561G",
+        "A4588G",
+        "C4618T",
+        "A4648G",
+        "G4759A",
+        "A4774G",
+        "T5032C",
+        "T5068C",
+        "G5125A",
+        "A5155G",
+        "G5287A",
+        "G5374A",
+        "A5416G",
+        "G5425A",
+        "C5626T",
+        "C5649T",
+        "T5669C"
+      ],
+      "strain": "NODE_0000023",
+      "yvalue": 19.7978515625
+    }
+  ],
+  "clade": 47,
+  "muts": [],
+  "strain": "NODE_0000020",
+  "yvalue": 22.02392578125
+}
